@@ -1,10 +1,8 @@
 # OpenAI Image Generator
 
-This is a simple image generator built with Node.js and Express that uses [OpenAI's Dall-E models](https://openai.com/docs/guides/images) to generate images.
+This is a simple image generator built with Node.js and Express that uses [Stable Diffusion](https://stablediffusionweb.com) to generate images.
 
 ## Usage
-
-Generate an API KEY at [OpenAI](https://openai.com/) and add it to the `.env` file.
 
 Install the dependencies
 
